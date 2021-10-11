@@ -1,0 +1,95 @@
+body{
+  text-align: center;
+  color: blue;
+  font-family: "Merriweather",serif;
+  background-color: lightblue;
+}
+
+p{
+  line-height: 2;
+  font-size: 23px;
+}
+
+hr {
+  border: dotted #5493E5 6px;
+  border-bottom:none;
+  width: 81%;
+  margin: 55px auto;
+}
+
+h1 {
+  font-size: 3.475rem;
+  width: 10%;
+  font-family: 'Sacramento',cursive;
+  margin-top: 50px;
+  margin-left:31%;
+  color: #147a7a;
+  width: 39%;
+}
+
+h2{
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #147a7a;
+  padding-bottom: 10xp;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #147a7a;
+}
+
+a{
+  color: #147a7a;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration; none;
+}
+
+a:hover {
+  color: ##1ca7a7;
+  font-size: 16px;
+}
+
+.gornjiDiv{
+  background-color: #85D5B0;
+  position: relaative;
+  padding-top: 100px;
+  padding-bottom: 23px;
+
+}
+.srednjiDiv{
+  margin: 100px 0px;
+}
+
+.copyright{
+  background-color: #85D5B0;
+  padding: 20px;
+}
+
+.profile img{
+  height: 236px;
+  width: 211px;
+  border-radius:20%;
+}
+
+.vestina img{
+  box-shadow: rgba(0, 0, 0, 0.35) 20px 47px 69px;
+}
+
+.vestina h3{
+  margin-right: 46px;
+  font-size: 35px;
+}
+
+.vestina td{
+  width: 50%;
+}
+
+.vestina p{
+  margin-right: 46px;
+}
+
+.vestina{
+  padding-bottom: 40px;
+}
